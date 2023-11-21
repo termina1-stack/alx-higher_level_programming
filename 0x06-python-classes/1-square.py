@@ -2,6 +2,7 @@
 
 """class Square that defines a square with private attr size"""
 
+
 class Square:
     """ a class Square"""
 
